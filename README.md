@@ -33,7 +33,7 @@ Test
 
 [文件解說](doc/index.html)
 
-![KBJ King](pic/LBJ King.png)
+![KBJ King](pic/LBJ%20King.png)
 
 
 ![101圖](pic/LBJ King.png)
