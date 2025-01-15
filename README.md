@@ -7,8 +7,6 @@ Test
 ##### LBJ King
 
 
-![alt text](http://url/to/[https://github.com/Baller0allen/SexDoll/blob/main/pic/LBJ%20King.png])
-
 # GJSchool專案
 ## 第一章
 ### 第一小節
@@ -34,6 +32,9 @@ Test
 
 
 [文件解說](doc/index.html)
+
+![KBJ King](pic/LBJ King.png)
+
 
 ![101圖](pic/LBJ King.png)
 
