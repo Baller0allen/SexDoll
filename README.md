@@ -35,7 +35,7 @@ Test
 
 [文件解說](doc/index.html)
 
-![101圖](pic/LBJ King.png)</a>
+![101圖](pic/LBJ King.png)
 
 <ul type="disk">
 <li>台北捷運板南線</li>
